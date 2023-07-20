@@ -1,0 +1,1 @@
+regedit /s windows_tdr_fix.reg
